@@ -1,0 +1,40 @@
+.d-block{
+	height: 700px;
+}
+.tag1{
+	border-radius: 25px;
+  background: #d1e0e0;
+  padding: 20px;
+  width: 50%;
+  height: 400px;
+
+}
+body{
+	background-color:black;
+}
+.tag2{
+	border-radius: 25px;
+  background: #d1e0e0;
+  padding: 20px;
+  width: 50%;
+  height: 320px;
+
+}
+#pic1{
+	background-image: url(https://www.dotnetcurry.com/images/dotnetcore/concurrent/parallel-vs-concurrent-dotnet-core.png);
+}
+#hi{
+  background-color: #d1e0e0;
+}
+hr.style-one {
+    border: 2;
+    height: 8px;
+    background: #FFFFFF;
+    background-image: linear-gradient(to right, #FFFFFF,#FFFFFF, #FFFFFF);
+}
+#content{
+  background-image: url(https://paradigmlearning.com/img/social/SMP-LOGO.jpg "class="d-block w-100);
+}
+body{
+  background-image: url(https://paradigmlearning.com/img/social/SMP-LOGO.jpg "class="d-block w-100);
+}
